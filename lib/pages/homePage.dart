@@ -85,7 +85,7 @@ class _HomePageState extends State<HomePage>
           ),
           child: const Center(
             child: Text(
-              '#GoMoon',
+              '#Animdo',
               style: TextStyle(
                 color: Colors.black,
                 fontSize: 30,
