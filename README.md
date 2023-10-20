@@ -4,7 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-- <video src="WhatsApp%20Video%202023-10-20%20at%2018.58.34_d30bcb4a.mp4" controls title="#goMoon"></video>
+- 
+
+https://github.com/shamim36/animdo_app/assets/104686222/a167c9e3-2876-4f20-a2c5-691530ef2505
 
 This project is a starting point for a Flutter application.
 
